@@ -119,7 +119,6 @@ This project is licensed under the MIT License. See # Dashboard Notes
 
 ## Known limitations
 - The forecast uses historical trend data and is indicative only.
-- `[Add any other limitations]`
 
 ## Changelog
 - v1.0: Initial dashboard with sales and forecast pages. for details.
