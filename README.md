@@ -111,4 +111,15 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales])
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See # Dashboard Notes
+
+## Data refresh
+- Refresh frequency: `[manual / scheduled]`
+- Source: `[file path or connection]`
+
+## Known limitations
+- The forecast uses historical trend data and is indicative only.
+- `[Add any other limitations]`
+
+## Changelog
+- v1.0: Initial dashboard with sales and forecast pages. for details.
