@@ -107,7 +107,7 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales])
 
 ## Author
 
-`[KrishnaPandith]` · [dataxkrishna](#) · [Email](#)
+`[KrishnaPandith]` · [dataxkrishna](#) · [krishnapandith18@gmail.com](#)
 
 ## License
 
