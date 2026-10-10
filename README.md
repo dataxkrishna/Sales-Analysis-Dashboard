@@ -1,7 +1,7 @@
 # Sales-Analysis-Dashboard
 Interactive Power BI dashboard analysing SuperStore sales, profit, and category performance, with a 15-day sales forecast and slicers for filtering by region, category, and segment.
 
-<img width="1290" height="752" alt="SalesForecassting" src="https://github.com/user-attachments/assets/ddce29b6-7395-4092-a4fc-3ba8a458e65d" />
+<img width="1301" height="748" alt="Sales_Dashobard" src="https://github.com/user-attachments/assets/8b71b322-f991-4435-bc17-a39243aa567f" />
 
 ## Problem Statement
 
