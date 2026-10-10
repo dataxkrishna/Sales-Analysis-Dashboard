@@ -1,6 +1,56 @@
 # Sales-Analysis-Dashboard
 Interactive Power BI dashboard analysing SuperStore sales, profit, and category performance, with a 15-day sales forecast and slicers for filtering by region, category, and segment.
 
+<img width="1290" height="752" alt="SalesForecassting" src="https://github.com/user-attachments/assets/ddce29b6-7395-4092-a4fc-3ba8a458e65d" />
+
+## Problem Statement
+
+Sales teams often have data spread across transaction records, but no quick way to see which products, regions, and customer segments are driving profit and which are losing money. This dashboard answers questions such as:
+
+- Which categories and sub-categories generate the most sales and profit?
+- Which regions or states underperform, and by how much?
+- How do sales trend over time, and are there seasonal patterns?
+- What sales can we reasonably expect over the next 15 days?
+
+## Objectives
+
+- Provide a single-page view of core sales KPIs.
+- Enable self-service filtering by date, region, category, and segment.
+- Identify high-margin and low-margin areas of the business.
+- Offer a short-term sales forecast to support planning.
+
+## Project Workflow
+
+1. **Data sourcing:** Loaded the SuperStore sales dataset into Power BI Desktop.
+2. **Data cleaning (Power Query):** Checked data types, removed duplicates, and standardised date fields.
+3. **Data modelling:** Created relationships between fact and dimension tables and set up a date table.
+4. **Measures (DAX):** Built reusable calculations for sales, profit, margin, and order counts.
+5. **Visualisation:** Designed the Sales Dashboard and Sales Forecast pages with a consistent layout and colour scheme.
+6. **Forecasting:** Applied Power BI's forecast feature to the time series to project the next 15 days.
+7. **Validation:** Cross-checked totals against the source data to confirm accuracy.
+
+## Skills Demonstrated
+
+- Data cleaning and transformation with Power Query (M)
+- Data modelling and relationship design in Power BI
+- DAX measure creation and time intelligence
+- Dashboard design and storytelling
+- Time-series forecasting
+- Communicating insights to non-technical audiences
+
+## Limitations
+
+- The forecast is based only on historical sales patterns. It does not account for promotions, holidays, or external events.
+- The dataset is a sample and may not reflect current market conditions.
+- The map visual depends on the accuracy of location fields in the source data.
+
+## Future Improvements
+
+- Add a profitability page focused on discount impact and returns.
+- Include a customer-level analysis (repeat purchases, segment behaviour).
+- Compare forecast accuracy against actual results once new data is available.
+- Publish the report to the Power BI Service for online sharing.
+
 # SuperStore Sales Dashboard
 
 An interactive Power BI dashboard analysing SuperStore sales performance, with a 15-day sales forecast.
