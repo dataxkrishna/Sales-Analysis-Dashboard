@@ -95,14 +95,6 @@ Total Sales = SUM(Orders[Sales])
 Total Profit = SUM(Orders[Profit])
 Profit Margin % = DIVIDE([Total Profit], [Total Sales])
 ```
-
-## How to Use
-
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
-2. Open `sales_dashboard.pbix`.
-3. If prompted, update the data source path under **Transform data → Data source settings**.
-4. Click **Refresh** to load the latest data.
-
 ## Tools
 
 - Power BI Desktop
