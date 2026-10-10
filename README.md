@@ -5,7 +5,8 @@ Interactive Power BI dashboard analysing SuperStore sales, profit, and category 
 
 An interactive Power BI dashboard analysing SuperStore sales performance, with a 15-day sales forecast.
 
-![Sales Dashboard](screenshots/sales-dashboard.png)
+![Sales Dashboard](<img width="1290" height="752" alt="SalesForecassting" src="https://github.com/user-attachments/assets/e8916804-275d-44c9-87ea-c622b2c1fb96" />
+)
 
 ## Overview
 
